@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gramps828
 - 👀 I’m interested in: AI
-- 🌱 I’m currently learning: Python, Racket
+- 🌱 I’m currently learning: Python, Rust, Racket
 - 💞️ I’m looking to collaborate: on farm_tech projects
 - 📫 How to reach me ...
 
