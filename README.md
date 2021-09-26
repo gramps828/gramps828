@@ -2,7 +2,7 @@
 - 👀 I’m interested in: AI
 - 🌱 I’m currently learning: Python, Rust, Racket
 - 💞️ I’m looking to collaborate: on farm_tech projects
-- 📫 How to reach me ...
+- 📫 How to reach me 😶
 
 <!---
 gramps828/gramps828 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
